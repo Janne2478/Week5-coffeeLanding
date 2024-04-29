@@ -108,14 +108,14 @@ body {
     justify-content: center;
 }
 
-.origin-image__link {
+.origin-image__link a{
     background-color: #44240dd7;
     border: 2px solid #44240d;
     color: #c1c3c2;
+    text-decoration: none;
     display: inline-block;
     font-size: 3rem;
     padding: 1rem;
-    text-decoration: none;
     text-transform: uppercase;
     transition: all 1s ease-in-out;
 }
